@@ -1,4 +1,23 @@
 h2 {
     background-color: palegoldenrod;
     color: maroon;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+h3 {
+    background-color: palegoldenrod;
+    color: maroon;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+.car {
+    width: 90%;
+    padding: 10px;
+}
+.info {
+    border: 2pt black solid;
+    width: 75%;
+    
 }
